@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '54 * * * *'
   workflow_dispatch:
   
 jobs:
