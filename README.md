@@ -41,15 +41,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/thalissonmrodrigues/thalissonmrodrigues/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
+      srcset="https://github.com/thalissonmrodrigues/thalissonmrodrigues/blob/snake-run-output/only-svg/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/thalissonmrodrigues/thalissonmrodrigues/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg"
+      srcset="https://github.com/thalissonmrodrigues/thalissonmrodrigues/blob/snake-run-output/only-svg/github-contribution-grid-snake.svg"
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://github.com/thalissonmrodrigues/thalissonmrodrigues/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg"
+      src="https://github.com/thalissonmrodrigues/thalissonmrodrigues/blob/snake-run-output/only-svg/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
