@@ -1,9 +1,8 @@
 name: Snake
 
 on:
-  workflow_dispatch:  # permite rodar manualmente
   schedule:
-    - cron: "40 2 * * *"
+    - cron: '5 * * * *'
 
 jobs:
   generate:
