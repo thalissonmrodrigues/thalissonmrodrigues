@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=for-the-badge" height="30" alt="drupal logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
 </div>
 
 ###
